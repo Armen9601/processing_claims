@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/auditor_service/pom.xml" />
+        <option value="$PROJECT_DIR$/processing_claims_system/pom.xml" />
+        <option value="$PROJECT_DIR$/validation_service_1/validation_service_1/pom.xml" />
+        <option value="$PROJECT_DIR$/validation_service_two/pom.xml" />
+        <option value="$PROJECT_DIR$/validation_service_one/pom.xml" />
+        <option value="$PROJECT_DIR$/validation_service_three/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>

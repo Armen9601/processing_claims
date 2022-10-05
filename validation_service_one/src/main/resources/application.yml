@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: validation_service_one
+  server:
+    port: 8076
+netty:
+  default:
+    allocator:
+      max-order: 3

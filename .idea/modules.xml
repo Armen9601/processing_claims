@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auditor_service/auditor_service.iml" filepath="$PROJECT_DIR$/auditor_service/auditor_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/processing_claims.iml" filepath="$PROJECT_DIR$/.idea/processing_claims.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processing_claims_system/processing_claims_system.iml" filepath="$PROJECT_DIR$/processing_claims_system/processing_claims_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validation_service_one/validation_service_one.iml" filepath="$PROJECT_DIR$/validation_service_one/validation_service_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validation_service_three/validation_service_three.iml" filepath="$PROJECT_DIR$/validation_service_three/validation_service_three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validation_service_two/validation_service_two.iml" filepath="$PROJECT_DIR$/validation_service_two/validation_service_two.iml" />
+    </modules>
+  </component>
+</project>

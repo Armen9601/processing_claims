@@ -1,0 +1,26 @@
+micronaut:
+  application:
+    name: processing_claims_system
+  config-client:
+    enabled: true
+  server:
+    port: 8089
+
+datasources:
+  default:
+    driverClassName: org.postgresql.Driver
+    db-type: postgresql
+    schema-generate: CREATE_DROP
+    dialect: POSTGRES
+    username: postgres
+    password: postgres
+    url: jdbc:postgresql://localhost:5433/processing_claims_system
+netty:
+  default:
+    allocator:
+      max-order: 3
+
+jooq:
+  datasources:
+    default:
+      sql-dialect: 'POSTGRES'
